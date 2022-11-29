@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khateganesh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python, Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to do Freelancing
 - 📫 How to reach me khateganesh@gmail.com
 -
 
